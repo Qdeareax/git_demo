@@ -1,5 +1,5 @@
-hello world qq
-hello world jpn
+world qq
+world jpn
 hello world qq
 hello world qq
 hello world genshin
